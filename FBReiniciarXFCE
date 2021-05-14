@@ -1,0 +1,11 @@
+#!/bin/bash
+
+xfce4-session-logout
+
+sleep 2
+
+xdotool key Tab 
+
+sleep 2
+
+xdotool key KP_Enter
